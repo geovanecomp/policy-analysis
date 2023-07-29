@@ -1,0 +1,4 @@
+# In the end run: docker-compose run web sh -c "django-admin startproject web ."
+Django==4.2.3
+djangorestframework==3.14.0
+psycopg2==2.9.6
